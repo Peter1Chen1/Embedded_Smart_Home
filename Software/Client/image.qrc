@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/ads.png</file>
+        <file>image/fengshan.png</file>
+        <file>image/fengshan2.png</file>
+        <file>image/image.qrc</file>
+        <file>image/login_background.png</file>
+        <file>image/login_button_se.png</file>
+        <file>image/room_led_off.png</file>
+        <file>image/room_led_on.png</file>
+        <file>image/voice_close.png</file>
+        <file>image/voice_open.png</file>
+    </qresource>
+</RCC>
