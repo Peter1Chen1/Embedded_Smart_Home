@@ -34,6 +34,6 @@ Through the programming of STM32 single-chip microcomputer, the signal from the 
 
 ### 3.Development board effect display:
 
-![hardware.png](Picture/hardware.png)
+![hardware.jpg](Picture/hardware.jpg)
 
 ### Finally,realize the effect of embedded smart home
