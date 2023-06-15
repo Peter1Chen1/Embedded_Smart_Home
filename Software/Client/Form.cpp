@@ -112,7 +112,7 @@ void Form::time_showed()
 void Form::on_pushButton_search_clicked()
 {
     QNetworkRequest request;
-    QString str1 = "http://api.seniverse.com/v3/weather/now.json?key=SwJjKNAIuxjFWii6e&location=";
+    QString str1 = "http://api.seniverse.com/v3/weather/now.json?key='Here is an API private key for seniverse.com'";
     QString str2 = ui->comboBox->currentText();
     QString str3 = "&language=zh-Hans&unit=c";
     QString url = str1 + str2 + str3;
