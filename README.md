@@ -20,7 +20,7 @@
 
 ## Hardware module:
 
-Through the programming of STM32 single-chip microcomputer, the signal from the server to control the light, buzzer, fan on and off six functions is received. Realize the six actual functions of controlling light, buzzer, and fan to be turned on and off by three actual hardware
+Through the programming of STM32 single-chip microcomputer, the signals from the server to control the light, buzzer, fan on and off six functions is received. Realize the six actual functions of controlling light, buzzer, and fan to be turned on and off by three actual hardware
 
 ## Result photo:
 
